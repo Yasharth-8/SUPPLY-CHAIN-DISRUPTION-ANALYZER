@@ -1,0 +1,21 @@
+DOC_ID: ATL-1005
+EVENT_ID: NONE
+TITLE: Country profile: Islamic Republic of Iran
+SOURCE_NAME: Ports and Maritime Organization of Iran
+SOURCE_TYPE: atlas
+RELIABILITY: 1
+PUB_DATE: 2025-01-18
+PUB_TIME: 14:00
+COUNTRY: Iran
+SECTOR: general
+LANGUAGE: en
+---
+Country profile: Islamic Republic of Iran
+
+[P1] The Islamic Republic of Iran occupies the entire northern coastline of the Persian Gulf and the Strait of Hormuz, controlling the most sensitive maritime energy chokepoint in the world. Approximately 20.5 million barrels of crude and refined petroleum products transit the 21-nautical-mile-wide strait daily.
+
+[P2] Iran possesses vast hydrocarbon reserves, ranking among the top four globally in crude oil and natural gas. Key export infrastructure includes the Kharg Island terminal inside the Gulf and the newly commissioned Jask Oil Terminal on the Gulf of Oman, which allows crude exports that bypass the Strait of Hormuz entirely.
+
+[P3] In addition to hydrocarbons, Iran is a major regional producer of nitrogen fertilizers and petrochemical polymers, trading primarily with Asian and regional non-aligned buyers through bilateral currency swaps and barter mechanisms.
+
+[P4] Chabahar Port, situated outside the Strait on the southeastern coast, forms the maritime terminus for the International North-South Transport Corridor (INSTC), linking Indian Ocean maritime commerce to Central Asia and Russia.

@@ -1,0 +1,19 @@
+DOC_ID: WLD-1007
+EVENT_ID: CRX-2027
+TITLE: Iranian Officials Highlight Jask Terminal Readiness and South-South Trade
+SOURCE_NAME: Tehran Times Economic Review
+SOURCE_TYPE: wire
+RELIABILITY: 3
+PUB_DATE: 2027-02-14
+PUB_TIME: 13:30
+COUNTRY: Iran
+SECTOR: energy
+LANGUAGE: en
+---
+Iranian Officials Highlight Jask Terminal Readiness and South-South Trade
+
+[P1] Senior Iranian energy officials emphasize that the Goreh-Jask crude pipeline and offshore export terminal on the Sea of Oman have achieved sustained commercial export readiness.
+
+[P2] By loading crude outside the Persian Gulf, Iran provides its international trading partners with secure alternatives that circumvent western insurance restrictions and regional chokepoints.
+
+[P3] Iranian petrochemical complexes report sustained export contracts with regional and Asian buyers utilizing local currency clearance and barter mechanisms.

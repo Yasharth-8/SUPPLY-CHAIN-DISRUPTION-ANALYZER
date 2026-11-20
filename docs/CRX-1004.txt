@@ -1,0 +1,19 @@
+DOC_ID: CRX-1004
+EVENT_ID: CRX-2027
+TITLE: Fujairah Offshore Berth Expansion: Abu Dhabi Crude Bypass Performance
+SOURCE_NAME: Port of Fujairah Authority
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-01-19
+PUB_TIME: 16:00
+COUNTRY: United Arab Emirates
+SECTOR: energy
+LANGUAGE: en
+---
+Fujairah Offshore Berth Expansion: Abu Dhabi Crude Bypass Performance
+
+[P1] The Port of Fujairah confirms that the Abu Dhabi Crude Oil Pipeline (ADCOP) delivered a record 1.75 million barrels per day of Murban crude to offshore single-point mooring buoys during the first half of January 2027.
+
+[P2] Because Fujairah is situated on the Gulf of Oman outside the Strait of Hormuz, tankers lifting at Fujairah avoid the 0.85% war-risk premium applicable inside the Gulf.
+
+[P3] Tanker congestion outside Fujairah has risen, with average waiting times extending from 1.5 days to 4.2 days as regional charterers substitute Gulf loadings for Fujairah SPM fixtures.

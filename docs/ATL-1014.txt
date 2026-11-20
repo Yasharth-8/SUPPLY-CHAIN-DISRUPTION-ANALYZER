@@ -1,0 +1,21 @@
+DOC_ID: ATL-1014
+EVENT_ID: NONE
+TITLE: Country profile: Federative Republic of Brazil
+SOURCE_NAME: Ministry of Ports and Airports
+SOURCE_TYPE: atlas
+RELIABILITY: 1
+PUB_DATE: 2025-02-06
+PUB_TIME: 12:00
+COUNTRY: Brazil
+SECTOR: general
+LANGUAGE: en
+---
+Country profile: Federative Republic of Brazil
+
+[P1] Brazil is the dominant agricultural and mining powerhouse of South America, ranking as the world's top exporter of soybeans, sugar, poultry, and high-grade iron ore. Its Santos and Paranagua ports handle enormous bulk carrier traffic.
+
+[P2] Through Petrobras, Brazil has expanded deepwater pre-salt crude oil production in the Santos and Campos basins, transforming the country into a top-ten global oil exporter producing light sweet medium grades.
+
+[P3] Despite its agricultural strength, Brazil suffers from a structural deficit in domestic fertilizer production, importing more than 85% of its nitrogen and potash requirements from Russia, Canada, and Middle Eastern suppliers.
+
+[P4] Transatlantic shipping routes link Brazilian export terminals to European deepwater ports and Asian consumers via the Cape of Good Hope and Cape Horn maritime channels.

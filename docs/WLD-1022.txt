@@ -1,0 +1,19 @@
+DOC_ID: WLD-1022
+EVENT_ID: CRX-2027
+TITLE: Reuters Mumbai: Pharmaceutical Giant Sun Pharma and Dr. Reddy's Confirm Supply Continuity
+SOURCE_NAME: Reuters (India Corporate Newsdesk)
+SOURCE_TYPE: wire
+RELIABILITY: 2
+PUB_DATE: 2027-02-18
+PUB_TIME: 16:45
+COUNTRY: United Kingdom
+SECTOR: pharma
+LANGUAGE: en
+---
+Reuters Mumbai: Pharmaceutical Giant Sun Pharma and Dr. Reddy's Confirm Supply Continuity
+
+[P1] India's largest drug manufacturers—including Sun Pharma, Dr. Reddy's Laboratories, and Cipla—confirmed that international shipments of generic medicines to the US and Europe remain fully on schedule.
+
+[P2] Corporate supply chain leaders stated that strategic air-cargo arrangements and buffer warehouse stocks in the Netherlands and New Jersey have prevented stockouts at hospital networks.
+
+[P3] Both firms reiterated their annual revenue guidance, affirming that geopolitical shipping friction has had negligible financial impact on operations.

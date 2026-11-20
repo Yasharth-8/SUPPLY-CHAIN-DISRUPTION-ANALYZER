@@ -1,0 +1,23 @@
+DOC_ID: ATL-1015
+EVENT_ID: NONE
+TITLE: Global Outlet Credibility Guide & Source Reliability Matrix
+SOURCE_NAME: International Logistics Intelligence Consortium
+SOURCE_TYPE: atlas
+RELIABILITY: 1
+PUB_DATE: 2025-02-10
+PUB_TIME: 10:00
+COUNTRY: Global
+SECTOR: general
+LANGUAGE: en
+---
+Global Outlet Credibility Guide & Source Reliability Matrix
+
+[P1] The Global Source Reliability Matrix classifies intelligence outlets into four rigid credibility tiers to ensure rigorous evidence grading in commercial and supply chain dispute adjudication.
+
+[P2] TIER 1 (OFFICIAL AUTHORITIES & STATISTICAL MINISTRIES): Official governmental and supranational entities including the US Federal Maritime Commission, US Department of Energy, Saudi Mawani, India DG Shipping, Eurostat, Suez Canal Authority, and Singapore MPA. These bodies publish legal notices, vessel registries, customs data, and regulatory decrees. They are authoritative, measured, and binding.
+
+[P3] TIER 2 (REPUTABLE TRADE PRESS & SPECIALIZED COMMODITY ANALYTICS): Established international wires and trade journals including Reuters, Bloomberg, Lloyd's List Intelligence, Argus Media, ICIS Chemical, Platts, and TradeWinds. These outlets maintain professional journalistic standards, independently verify port fixture rates, and openly issue formal corrections.
+
+[P4] TIER 3 (REGIONAL ANALYTICA & OPINIONATED FORECASTERS): Think tanks and consulting firms including Eurasia Risk Advisory, Gulf Energy Echo, and specialized market watchers. They provide insightful qualitative forecasts but frequently embed subjective assumptions and speculative worst-case scenarios.
+
+[P5] TIER 4 (SOCIAL LEAKS, SENSATIONAL BLOGS & RUMOR CHANNELS): Unverified digital sources including Red Sea Scoop, WarLanesOSINT Telegram, Daily Roar Global, and anonymous shipping chat boards. These sources frequently publish unverified leaks, clickbait claims, planted decoys, and false panic reports without editorial oversight.

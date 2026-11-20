@@ -1,0 +1,21 @@
+DOC_ID: ATL-1011
+EVENT_ID: NONE
+TITLE: Country profile: Republic of Turkey (Türkiye)
+SOURCE_NAME: Ministry of Transport and Infrastructure
+SOURCE_TYPE: atlas
+RELIABILITY: 1
+PUB_DATE: 2025-01-30
+PUB_TIME: 15:20
+COUNTRY: Turkey
+SECTOR: general
+LANGUAGE: en
+---
+Country profile: Republic of Turkey (Türkiye)
+
+[P1] The Republic of Turkey commands the Turkish Straits (Bosporus and Dardanelles), the sole maritime egress for Black Sea littoral states—including Russia, Ukraine, Romania, and Bulgaria—into Mediterranean waters under the Montreux Convention.
+
+[P2] Turkey functions as a critical multimodal energy bridge, hosting the Baku-Tbilisi-Ceyhan (BTC) crude pipeline from the Caspian Sea and the Kirkuk-Ceyhan pipeline from northern Iraq, terminating at the deepwater port of Ceyhan.
+
+[P3] Turkish industrial refiners, including the STAR refinery at Aliaga and Tupras facilities, process diversified sour and sweet crudes, acting as re-exporters of middle distillates into Southeastern Europe.
+
+[P4] Its geographical position makes Turkey a pivotal hub for the Middle Corridor rail network connecting China to Europe via Kazakhstan and the Caspian Sea, circumventing northern routes.

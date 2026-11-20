@@ -1,0 +1,19 @@
+DOC_ID: CRX-1032
+EVENT_ID: CRX-2027
+TITLE: OPEC Monthly Market Review: Production Compliance and Export Routes
+SOURCE_NAME: OPEC Secretariat
+SOURCE_TYPE: crisis
+RELIABILITY: 2
+PUB_DATE: 2027-02-19
+PUB_TIME: 16:45
+COUNTRY: Austria
+SECTOR: energy
+LANGUAGE: en
+---
+OPEC Monthly Market Review: Production Compliance and Export Routes
+
+[P1] OPEC member production in January 2027 totaled 26.8 million bpd, adhering closely to agreed voluntary production adjustments.
+
+[P2] The Secretariat notes that regional member states have expedited logistical diversions to bypass sensitive choke areas, including maximizing pipeline throughput to Red Sea and Gulf of Oman terminals.
+
+[P3] Member countries reaffirm their commitment to market stability and dismiss sensationalist projections of systemic energy starvation.

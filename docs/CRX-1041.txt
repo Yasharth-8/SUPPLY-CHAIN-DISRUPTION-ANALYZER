@@ -1,0 +1,19 @@
+DOC_ID: CRX-1041
+EVENT_ID: CRX-2027
+TITLE: POST-CUTOFF DIPLOMATIC ACCORD: Comprehensive Maritime Peace Treaty Signed
+SOURCE_NAME: Associated Press World Wire
+SOURCE_TYPE: crisis
+RELIABILITY: 2
+PUB_DATE: 2027-03-08
+PUB_TIME: 11:00
+COUNTRY: Switzerland
+SECTOR: geopolitics
+LANGUAGE: en
+---
+POST-CUTOFF DIPLOMATIC ACCORD: Comprehensive Maritime Peace Treaty Signed
+
+[P1] (TEMPORAL VIOLATION TRAP - DO NOT CITE FOR AS-OF 2027-02-20) In a historic diplomatic breakthrough in Geneva on 08 March 2027, regional powers signed a comprehensive maritime non-aggression pact.
+
+[P2] Lloyd's underwriters immediately cancelled all war risk additional premiums, and oil prices collapsed back to $72 per barrel.
+
+[P3] All shipping carriers have resumed full transit through the Suez Canal and Strait of Hormuz without restriction.

@@ -1,0 +1,19 @@
+DOC_ID: CRX-1090
+EVENT_ID: CRX-2027
+TITLE: Steel Sector Logistics Review: Coking Coal Buffer Stocks in Odisha & Jharkhand
+SOURCE_NAME: Indian Steel Association (ISA)
+SOURCE_TYPE: crisis
+RELIABILITY: 2
+PUB_DATE: 2027-02-20
+PUB_TIME: 07:30
+COUNTRY: India
+SECTOR: steel
+LANGUAGE: en
+---
+Steel Sector Logistics Review: Coking Coal Buffer Stocks in Odisha & Jharkhand
+
+[P1] The Indian Steel Association affirms that primary steel producers (Tata Steel, JSW Steel, Jindal Steel & Power, SAIL) possess an aggregate 52 days of imported metallurgical coal reserves across port yards and plant sidings.
+
+[P2] Uninterrupted dry bulk imports through Paradip, Dhamra, and Vizag ports have cushioned the steel sector from spot price inflation.
+
+[P3] Domestic finished steel export shipments to Southeast Asia and the Middle East via Haldia and Chennai ports maintained robust momentum.

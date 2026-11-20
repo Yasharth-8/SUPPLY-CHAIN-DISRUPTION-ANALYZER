@@ -1,0 +1,21 @@
+DOC_ID: ATL-1019
+EVENT_ID: NONE
+TITLE: Country profile: Democratic Socialist Republic of Sri Lanka & Palk Strait
+SOURCE_NAME: Sri Lanka Ports Authority (SLPA)
+SOURCE_TYPE: atlas
+RELIABILITY: 1
+PUB_DATE: 2025-02-16
+PUB_TIME: 10:15
+COUNTRY: Sri Lanka
+SECTOR: maritime
+LANGUAGE: en
+---
+Country profile: Democratic Socialist Republic of Sri Lanka & Palk Strait
+
+[P1] Sri Lanka occupies an incomparable strategic crossroads in the central Indian Ocean, situated only 6 to 10 nautical miles off the main East-West international shipping lane linking the Suez Canal and Strait of Hormuz to the Strait of Malacca.
+
+[P2] The Port of Colombo is South Asia's preeminent deepwater container transshipment hub. More than 60% of all Indian containerized export-import cargo is transshipped through Colombo via feeder vessels connecting to Indian gateway ports including JNPT, Chennai, Cochin, and Tuticorin.
+
+[P3] The Palk Strait and Gulf of Mannar separate southern Tamil Nadu (India) from northern Sri Lanka. While shallow depths in the Palk Strait limit ocean-going container vessels to circumnavigating Sri Lanka, coastal barge traffic, fisheries, and dedicated coastal feeder networks utilize the corridor.
+
+[P4] The newly commissioned Colombo International Container Terminals (CICT) and West Container Terminal (WCT) accommodate 24,000-TEU ultra-large container vessels, insulating regional Indian subcontinent supply chains from mainliner service withdrawals.

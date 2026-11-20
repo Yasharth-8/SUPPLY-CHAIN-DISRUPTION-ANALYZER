@@ -1,0 +1,19 @@
+DOC_ID: CRX-1013
+EVENT_ID: CRX-2027
+TITLE: Commercial Bulletin: Inbound Energy Receipts and Vessel Wait Times
+SOURCE_NAME: Port of Rotterdam Authority
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-02-08
+PUB_TIME: 14:00
+COUNTRY: Netherlands
+SECTOR: maritime
+LANGUAGE: en
+---
+Commercial Bulletin: Inbound Energy Receipts and Vessel Wait Times
+
+[P1] Inbound liquid bulk receipts at the Port of Rotterdam reached 8.4 million tonnes during January 2027, representing a modest 6.2% decline relative to prior year averages.
+
+[P2] The deficit was cushioned by increased crude imports from the United States (up 24% year-on-year) and North Sea offshore fields (Ekofisk and Forties), offsetting delays in Persian Gulf shipments.
+
+[P3] Average vessel turnaround time for crude tankers at Maasvlakte berths remained normal at 36 hours, although container terminals experienced sporadic yard stack density peaks exceeding 84% due to bunched ship arrivals from the Cape route.

@@ -1,0 +1,19 @@
+DOC_ID: CRX-1009
+EVENT_ID: CRX-2027
+TITLE: Ministry Notice: Baltic Terminal Winter Navigation & Pacific Diversions
+SOURCE_NAME: Ministry of Energy of the Russian Federation
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-02-01
+PUB_TIME: 11:30
+COUNTRY: Russian Federation
+SECTOR: energy
+LANGUAGE: en
+---
+Ministry Notice: Baltic Terminal Winter Navigation & Pacific Diversions
+
+[P1] Severe pack-ice conditions in the Gulf of Finland during late January 2027 necessitated mandatory icebreaker convoy assistance for tankers loading at Primorsk and Ust-Luga, temporarily reducing Baltic daily export loadings by approximately 18% (from 1.95M bpd to 1.60M bpd).
+
+[P2] To mitigate Baltic logistical constraints, crude dispatchers redirected 220,000 bpd eastward through the Transneft pipeline network toward the Pacific port of Kozmino for direct shipment to Chinese and Indian buyers.
+
+[P3] Russian seaborne fertilizer export volumes of urea and potash out of St. Petersburg maintained 82% of baseline targets, with bulk vessels chartered under sovereign indemnity arrangements.

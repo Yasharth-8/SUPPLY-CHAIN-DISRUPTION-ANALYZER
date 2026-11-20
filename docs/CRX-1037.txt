@@ -1,0 +1,19 @@
+DOC_ID: CRX-1037
+EVENT_ID: CRX-2027
+TITLE: SENSATIONAL CLAIM: Global Famine Declared as Nitrogen Supply Hits Zero
+SOURCE_NAME: Daily Roar Global
+SOURCE_TYPE: crisis
+RELIABILITY: 4
+PUB_DATE: 2027-02-20
+PUB_TIME: 15:00
+COUNTRY: United Kingdom
+SECTOR: agriculture
+LANGUAGE: en
+---
+SENSATIONAL CLAIM: Global Famine Declared as Nitrogen Supply Hits Zero
+
+[P1] (SENSATIONAL REPORT) The world's food supply is on the verge of total collapse! Insiders say there will be zero nitrogen fertilizer left in Europe or Asia by March.
+
+[P2] Massive crop failures of wheat, maize, and rice are guaranteed. Bread prices are forecast to skyrocket by 1,000% within the next three weeks.
+
+[P3] Riots are expected in major cities as supermarkets run empty. Stock up on canned foods now before all international trade is abolished!

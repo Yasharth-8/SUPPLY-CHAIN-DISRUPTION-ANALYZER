@@ -1,0 +1,19 @@
+DOC_ID: CRX-1016
+EVENT_ID: CRX-2027
+TITLE: Geopolitical Intelligence Note: Escalation Pathways & Strait Resilience
+SOURCE_NAME: Eurasia Risk Advisory
+SOURCE_TYPE: crisis
+RELIABILITY: 3
+PUB_DATE: 2027-02-12
+PUB_TIME: 09:30
+COUNTRY: United States
+SECTOR: geopolitics
+LANGUAGE: en
+---
+Geopolitical Intelligence Note: Escalation Pathways & Strait Resilience
+
+[P1] Eurasia Risk models estimate that the probability of a complete, sustained military closure of the Strait of Hormuz remains below 12%, as such an action would directly cripple Iran's own crude export revenue and provoke an overwhelming coalition naval counter-response.
+
+[P2] The baseline scenario is characterized by 'managed friction'—sporadic vessel harassment, selective insurance cancellations, and high psychological risk premiums that penalize vulnerable spot buyers while sparing established state-to-state contracts.
+
+[P3] Global markets possess significantly more structural redundancy today than during the 1980s Tanker War, thanks to pipeline bypasses (Petroline, ADCOP, Goreh-Jask) capable of rerouting up to 7.0 million bpd outside the Gulf.

@@ -1,0 +1,19 @@
+DOC_ID: CRX-1087
+EVENT_ID: CRX-2027
+TITLE: Semiconductor Intermediate Logistics: Chennai Air Cargo & Port Inflows from Vietnam
+SOURCE_NAME: Ministry of Electronics and Information Technology (MeitY)
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-02-19
+PUB_TIME: 12:00
+COUNTRY: India
+SECTOR: electronics
+LANGUAGE: en
+---
+Semiconductor Intermediate Logistics: Chennai Air Cargo & Port Inflows from Vietnam
+
+[P1] MeitY monitors confirm that electronic components, optical modules, and display sub-assemblies imported from northern Vietnam (Hai Phong) and Malaysia (Penang) reached Chennai and Bengaluru tech corridors with zero supply disruption.
+
+[P2] Container carriers operating the Bay of Bengal express loops maintained regular 5-day port-to-port sailings, while high-value microprocessor chips were expedited via daily commercial flights.
+
+[P3] Indian smartphone and consumer electronics assembly plants maintained 100% capacity utilization, achieving record export dispatches.

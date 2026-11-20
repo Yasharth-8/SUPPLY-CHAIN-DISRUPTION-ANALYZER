@@ -1,0 +1,19 @@
+DOC_ID: WLD-1016
+EVENT_ID: CRX-2027
+TITLE: Economic Times: Indian Refiners Leverage Dual-Coast Redundancy to Maintain Output
+SOURCE_NAME: The Economic Times (Energy Bureau)
+SOURCE_TYPE: wire
+RELIABILITY: 2
+PUB_DATE: 2027-02-12
+PUB_TIME: 08:45
+COUNTRY: India
+SECTOR: refining
+LANGUAGE: en
+---
+Economic Times: Indian Refiners Leverage Dual-Coast Redundancy to Maintain Output
+
+[P1] Indian petroleum refiners across Gujarat, Maharashtra, Karnataka, and Kerala have successfully deflected Middle Eastern maritime transit shocks by optimizing their crude intake slate.
+
+[P2] By blending deeply discounted Russian Urals with local domestic output (Rajasthan and Bombay High) and coastal swaps, refiners have sustained elevated gross refining margins (GRMs) while ensuring zero domestic pump price hikes.
+
+[P3] Analysts at Kotak and ICICI Securities note that India's refining sector has emerged as a global supplier of choice for refined middle distillates during international supply crises.

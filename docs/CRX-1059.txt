@@ -1,0 +1,19 @@
+DOC_ID: CRX-1059
+EVENT_ID: CRX-2027
+TITLE: Official Trade Communique: India-Australia Critical Minerals & Coking Coal Inflows
+SOURCE_NAME: Ministry of Mines & Ministry of Commerce, Government of India
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-02-16
+PUB_TIME: 14:00
+COUNTRY: India
+SECTOR: mining
+LANGUAGE: en
+---
+Official Trade Communique: India-Australia Critical Minerals & Coking Coal Inflows
+
+[P1] The Ministry of Mines confirms that seaborne imports of metallurgical coking coal and lithium spodumene from Australia reached 4.8 million metric tonnes during January 2027, fulfilling 102% of quarterly industrial allocation targets.
+
+[P2] Bulk carrier convoys traveling from Dampier and Port Hedland traversed the eastern Indian Ocean directly to Visakhapatnam and Paradip ports, encountering zero transit friction or geopolitical insurance surcharges.
+
+[P3] Bilateral supply mechanisms with Australian mining conglomerates insulate Indian steel blast furnaces and emerging battery gigafactories from European or Middle Eastern supply shocks.

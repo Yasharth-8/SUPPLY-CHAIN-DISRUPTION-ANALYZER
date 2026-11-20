@@ -1,0 +1,19 @@
+DOC_ID: WLD-1001
+EVENT_ID: CRX-2027
+TITLE: Global Shipping Giants Adapt to Cape Route as Middle East Tensions Persist
+SOURCE_NAME: Reuters Global Logistics Wire
+SOURCE_TYPE: wire
+RELIABILITY: 2
+PUB_DATE: 2027-01-20
+PUB_TIME: 07:15
+COUNTRY: Global
+SECTOR: shipping
+LANGUAGE: en
+---
+Global Shipping Giants Adapt to Cape Route as Middle East Tensions Persist
+
+[P1] Global shipping consortiums have demonstrated remarkable operational flexibility in absorbing Middle Eastern transit frictions by systematizing the Cape of Good Hope transit route.
+
+[P2] While container freight spot rates spiked in early January, spot increases have moderated as carriers brought idle container tonnage into active service and raised vessel sailing speeds.
+
+[P3] Analysts note that global supply chains have built substantial resilience since 2021, preventing the cascading gridlock that characterized earlier logistical crises.

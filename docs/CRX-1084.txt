@@ -1,0 +1,19 @@
+DOC_ID: CRX-1084
+EVENT_ID: CRX-2027
+TITLE: Export Clearance Circular: Non-Basmati Rice and Basmati Rice Shipping Status
+SOURCE_NAME: Agricultural and Processed Food Products Export Development Authority (APEDA)
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-02-18
+PUB_TIME: 14:00
+COUNTRY: India
+SECTOR: agriculture
+LANGUAGE: en
+---
+Export Clearance Circular: Non-Basmati Rice and Basmati Rice Shipping Status
+
+[P1] APEDA confirms that Indian rice exports totaled 1.42 million metric tonnes in January 2027, with Basmati shipments to Middle Eastern and European destinations flowing steadily through Kandla, Mundra, and JNPT.
+
+[P2] Non-basmati parboiled rice consignments to Southeast Asia and West Africa cleared through Kakinada Deepwater Port and Paradip without container equipment shortages.
+
+[P3] Government-to-government rice supply agreements with friendly nations in the Indian Ocean basin were fully honored at benchmark contract rates.

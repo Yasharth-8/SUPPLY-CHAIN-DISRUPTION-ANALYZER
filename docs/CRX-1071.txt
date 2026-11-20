@@ -1,0 +1,19 @@
+DOC_ID: CRX-1071
+EVENT_ID: CRX-2027
+TITLE: Port Statistics Bulletin: Deendayal Port (Kandla) Edible Oil & Bulk Fertilizer Discharges
+SOURCE_NAME: Deendayal Port Authority
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-02-01
+PUB_TIME: 11:00
+COUNTRY: India
+SECTOR: agriculture
+LANGUAGE: en
+---
+Port Statistics Bulletin: Deendayal Port (Kandla) Edible Oil & Bulk Fertilizer Discharges
+
+[P1] Deendayal Port handled 1.28 million metric tonnes of liquid edible oils and dry fertilizers in January 2027, an increase of 4.2% compared to December 2026.
+
+[P2] Crude palm oil tankers originating from Belawan (Indonesia) and Port Klang (Malaysia) transited the Strait of Malacca without delay, discharging smoothly at Kandla's specialized chemical jetties.
+
+[P3] Port storage tanks for vegetable oils stand at 78% capacity (520,000 MT), ensuring complete retail price stability across northern Indian consumer markets.

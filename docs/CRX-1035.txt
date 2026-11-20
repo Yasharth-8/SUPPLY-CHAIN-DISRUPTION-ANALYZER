@@ -1,0 +1,19 @@
+DOC_ID: CRX-1035
+EVENT_ID: CRX-2027
+TITLE: Ministry Directive: Coastal Shipping Incentives and Refined Fuel Distribution
+SOURCE_NAME: Ministry of Ports, Shipping and Waterways
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-02-20
+PUB_TIME: 12:00
+COUNTRY: India
+SECTOR: maritime
+LANGUAGE: en
+---
+Ministry Directive: Coastal Shipping Incentives and Refined Fuel Distribution
+
+[P1] The Ministry has waived coastal cabotage restrictions and reduced port vessel tariffs by 40% for Indian-flagged product tankers moving refined petroleum products from western refineries (Jamnagar, Vadinar) to eastern consumption centers (Chennai, Haldia, Paradip).
+
+[P2] This domestic coastal redistribution mechanism replaces coastal rail transit bottlenecks, ensuring optimal distribution of diesel, gasoline, and domestic LPG cylinders.
+
+[P3] Port authorities at Deendayal (Kandla) and Jawaharlal Nehru Port (JNPT) report normal operations across all container and bulk berths.

@@ -1,0 +1,19 @@
+DOC_ID: CRX-1021
+EVENT_ID: CRX-2027
+TITLE: European Refinery Slate Analysis: Heavy Sour Crude Inflow Deficits
+SOURCE_NAME: Platts Oilgram Daily
+SOURCE_TYPE: crisis
+RELIABILITY: 2
+PUB_DATE: 2027-02-15
+PUB_TIME: 18:00
+COUNTRY: United Kingdom
+SECTOR: refining
+LANGUAGE: en
+---
+European Refinery Slate Analysis: Heavy Sour Crude Inflow Deficits
+
+[P1] Refineries in Northwest Europe and the Mediterranean are struggling with tight supplies of heavy sour crude, as Middle Eastern term barrels experience delivery slippages of 10-15 days.
+
+[P2] To balance their desulfurization and coking units, European refiners have bid aggressively for West African sweet crudes (Nigeria and Angola) and North Sea grades, driving the physical Dated Brent premium to a four-month high.
+
+[P3] German refiners at Schwedt and Leuna have increased throughput via the Rostock pipeline and Polish terminal at Gdansk, maintaining refined motor fuel yields above 88% of rated capacity.

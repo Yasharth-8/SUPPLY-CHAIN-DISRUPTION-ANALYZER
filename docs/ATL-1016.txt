@@ -1,0 +1,23 @@
+DOC_ID: ATL-1016
+EVENT_ID: NONE
+TITLE: Strategic Maritime Corridors & Chokepoints Registry
+SOURCE_NAME: Global Maritime Safety & Routing Bureau
+SOURCE_TYPE: atlas
+RELIABILITY: 1
+PUB_DATE: 2025-02-12
+PUB_TIME: 10:00
+COUNTRY: Global
+SECTOR: maritime
+LANGUAGE: en
+---
+Strategic Maritime Corridors & Chokepoints Registry
+
+[P1] Route 1 (Trans-Atlantic Energy & LNG Bridge) connects the US Gulf Coast (LOOP, Houston, Corpus Christi) directly to Northwest Europe (Rotterdam, Antwerp). Traversing 4,800 nautical miles with an average transit time of 12-14 days, it delivers 1.85 million bpd of crude and surging LNG flows, serving as Europe's primary external energy stabilizer.
+
+[P2] Route 2 (Persian Gulf / Strait of Hormuz Mainline) connects Gulf Cooperation Council producers and Iran to global maritime lanes. Normally conveying 20.5 million bpd of crude and refined liquids, it represents the world's most congested energy artery, vulnerable to war-risk insurance spikes (0.85% AP, or $1.02M per VLCC voyage). Route 3 (Red Sea / Bab-el-Mandeb & Suez Canal Express) provides the standard 8,500-nautical-mile short-cut between Asia and Europe.
+
+[P3] Route 4 (Cape of Good Hope Mega-Bypass) diverts vessels south around South Africa, adding approximately 3,500 nautical miles and 11 to 14 days of sailing time each way between the Indian Ocean and North-West Europe. Container carriers absorb ~$680,000 in incremental bunker fuel per round-trip, but offset $350,000 to $450,000 in avoided Suez transit fees, with over 82% of Asia-Europe liner capacity utilizing this loop during Red Sea security crises.
+
+[P4] Route 5 (Saudi East-West Petroline) is a 1,200 km overland pipeline pumping up to 4.8-5.0 million bpd of crude from Abqaiq to Yanbu on the Red Sea, enabling exports that bypass Hormuz. Route 6 (UAE ADCOP Pipeline) conveys 1.75 million bpd of Murban crude from Habshan to deepwater single point mooring buoys at Fujairah on the Gulf of Oman.
+
+[P5] Route 7 (International North-South Transport Corridor / INSTC) links Indian ports (Mumbai, Kandla) through Chabahar and Bandar Abbas to the Caspian Sea and Russia. Route 8 (ESPO Pipeline & Trans-Siberian Rail) delivers 1.45 million bpd of crude and overland natural gas to China. Route 9 (Arctic Northern Sea Route / NSR) enables summer and icebreaker-escorted winter transits. Route 10 (Indo-Pacific Energy Highway) routes through the Malacca and Singapore Straits, transited safely by over 220 commercial vessels daily.

@@ -1,0 +1,19 @@
+DOC_ID: CRX-1018
+EVENT_ID: CRX-2027
+TITLE: BREAKING: Bab-el-Mandeb Strait Completely Sealed by Naval Sea Mines
+SOURCE_NAME: Red Sea Scoop
+SOURCE_TYPE: crisis
+RELIABILITY: 4
+PUB_DATE: 2027-02-14
+PUB_TIME: 03:15
+COUNTRY: Yemen
+SECTOR: maritime
+LANGUAGE: en
+---
+BREAKING: Bab-el-Mandeb Strait Completely Sealed by Naval Sea Mines
+
+[P1] (UNVERIFIED REPORT) Insiders claim that over 400 naval bottom mines were deployed overnight across the Bab-el-Mandeb strait, completely severing all vessel navigation.
+
+[P2] Three commercial oil tankers have reportedly struck underwater explosives and are sinking near Perim Island. All shipping companies are ordered to turn back immediately.
+
+[P3] The global maritime trade system is officially paralyzed, and insurance companies have withdrawn all maritime coverage worldwide.

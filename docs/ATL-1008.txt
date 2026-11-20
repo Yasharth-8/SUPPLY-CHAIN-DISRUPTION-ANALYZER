@@ -1,0 +1,21 @@
+DOC_ID: ATL-1008
+EVENT_ID: NONE
+TITLE: Country profile: United Arab Emirates
+SOURCE_NAME: UAE Federal Transport Authority
+SOURCE_TYPE: atlas
+RELIABILITY: 1
+PUB_DATE: 2025-01-24
+PUB_TIME: 11:15
+COUNTRY: United Arab Emirates
+SECTOR: general
+LANGUAGE: en
+---
+Country profile: United Arab Emirates
+
+[P1] The United Arab Emirates is a premier Middle Eastern logistics and energy hub, consisting of seven emirates led economically by Abu Dhabi (oil and gas) and Dubai (trade and aviation).
+
+[P2] The Port of Fujairah, located on the Gulf of Oman coast outside the Strait of Hormuz, is the world's third-largest bunkering hub and operates the Abu Dhabi Crude Oil Pipeline (ADCOP). ADCOP transports 1.5 to 1.8 million barrels per day of Murban crude from Habshan directly to Fujairah's deepwater Single Point Mooring (SPM) buoys.
+
+[P3] Fujairah allows international tanker fleets to lift Arabian crude without entering the military risk zone inside the Persian Gulf, providing a vital structural release valve during regional maritime confrontations.
+
+[P4] Dubai's Jebel Ali Port remains the preeminent container transshipment hub for the wider Middle East, Indian subcontinent, and East African coastal trades.

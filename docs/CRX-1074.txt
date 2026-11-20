@@ -1,0 +1,19 @@
+DOC_ID: CRX-1074
+EVENT_ID: CRX-2027
+TITLE: Port Performance Log: V.O.C. Port Tuticorin Palk Bay Coastal Traffic Volume
+SOURCE_NAME: V.O. Chidambaranar Port Authority
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-02-07
+PUB_TIME: 13:45
+COUNTRY: India
+SECTOR: maritime
+LANGUAGE: en
+---
+Port Performance Log: V.O.C. Port Tuticorin Palk Bay Coastal Traffic Volume
+
+[P1] V.O.C. Port Tuticorin handled 72,000 TEUs of coastal and transshipment container cargo during January 2027, maintaining regular daily feeder sailings to Colombo across the Gulf of Mannar.
+
+[P2] Coastal feeder vessels operating under the Indian flag benefited from a 50% port tariff rebate, reducing container logistics costs for Tamil Nadu textile exporters by approximately $45 per TEU.
+
+[P3] Port marine departments affirm that weather conditions in the Gulf of Mannar and southern Palk Bay permitted 100% navigational safety throughout the winter monsoon period.

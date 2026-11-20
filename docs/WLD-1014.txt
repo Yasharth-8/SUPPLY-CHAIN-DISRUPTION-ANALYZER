@@ -1,0 +1,19 @@
+DOC_ID: WLD-1014
+EVENT_ID: CRX-2027
+TITLE: Singapore Bunkering and Fuel Oil Stocks Anchor Indo-Pacific Commerce
+SOURCE_NAME: The Straits Times Business Section
+SOURCE_TYPE: wire
+RELIABILITY: 2
+PUB_DATE: 2027-02-19
+PUB_TIME: 17:15
+COUNTRY: Singapore
+SECTOR: bunkering
+LANGUAGE: en
+---
+Singapore Bunkering and Fuel Oil Stocks Anchor Indo-Pacific Commerce
+
+[P1] The Port of Singapore continues to serve as the steadfast anchor for Indo-Pacific trade lanes, reporting robust bunker fuel availability and smooth vessel turnaround times.
+
+[P2] Despite global rerouting adjustments, Singapore's deep inventory reserves and transparent pricing benchmarks have prevented localized bunker shortages across regional maritime hubs.
+
+[P3] Maritime industry leaders praise the port's digital coordination and proactive infrastructure management in maintaining trade continuity.

@@ -1,0 +1,21 @@
+DOC_ID: ATL-1028
+EVENT_ID: NONE
+TITLE: Port Profile: Chennai Port & Kamarajar (Ennore) Automotive Gateway
+SOURCE_NAME: Chennai Port Authority & Kamarajar Port Limited
+SOURCE_TYPE: atlas
+RELIABILITY: 1
+PUB_DATE: 2025-02-27
+PUB_TIME: 13:20
+COUNTRY: India
+SECTOR: maritime
+LANGUAGE: en
+---
+Port Profile: Chennai Port & Kamarajar (Ennore) Automotive Gateway
+
+[P1] The Chennai-Ennore maritime complex forms the industrial backbone of South-East India, anchoring an automotive, engineering, and electronics export hub commonly designated as the 'Detroit of India' (hosting Hyundai, Renault-Nissan, BMW, Ford, and Ashok Leyland).
+
+[P2] Kamarajar Port (Ennore), situated 24 km north of Chennai, is India's first corporatized major port, featuring specialized deep-draft terminals for Roll-on/Roll-off (Ro-Ro) automobile car carriers, thermal coal berths, and liquid chemical storage.
+
+[P3] Chennai Port operates two modern container terminals connected across the Bay of Bengal and Andaman Sea to the Strait of Malacca, providing 4-day transit connectivity to Singapore and Malaysian ports.
+
+[P4] The corridor handles major imports of consumer electronics sub-assemblies from Vietnam and China, feeding mobile manufacturing clusters in Sriperumbudur and Oragadam.

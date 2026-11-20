@@ -1,0 +1,19 @@
+DOC_ID: CRX-1068
+EVENT_ID: CRX-2027
+TITLE: Customs Directive: Green-Channel Processing for Refined Fuel Exports via Gibraltar
+SOURCE_NAME: Central Board of Indirect Taxes and Customs (CBIC), India
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-01-24
+PUB_TIME: 14:15
+COUNTRY: India
+SECTOR: energy
+LANGUAGE: en
+---
+Customs Directive: Green-Channel Processing for Refined Fuel Exports via Gibraltar
+
+[P1] CBIC establishes priority green-channel customs clearance at Sikka, Jamnagar, and Vadinar ports for ocean-going product tankers carrying ultra-low sulfur diesel (ULSD) bound for European Mediterranean and Atlantic destinations.
+
+[P2] Electronic export declarations confirm that 1.15 million metric tonnes of clean refined fuels were dispatched to European buyers in late January, transiting through the Mediterranean and the Strait of Gibraltar.
+
+[P3] The directive verifies that export consignments met all international origin standards, generating substantial foreign exchange earnings for domestic refining clusters.

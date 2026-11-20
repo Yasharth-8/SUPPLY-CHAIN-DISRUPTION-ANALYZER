@@ -1,0 +1,19 @@
+DOC_ID: CRX-1006
+EVENT_ID: CRX-2027
+TITLE: National Iranian Oil Company Communique: Jask Terminal Loading Statistics
+SOURCE_NAME: National Iranian Oil Company (NIOC)
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-01-25
+PUB_TIME: 12:30
+COUNTRY: Iran
+SECTOR: energy
+LANGUAGE: en
+---
+National Iranian Oil Company Communique: Jask Terminal Loading Statistics
+
+[P1] NIOC operations report that the Jask Oil Terminal on the Sea of Oman has maintained uninterrupted crude oil exports of 350,000 barrels per day via the Goreh-Jask pipeline.
+
+[P2] Iranian heavy crude loaded at Jask is transferred directly onto independent suezmax and VLCC vessels bound for destination ports in China and non-aligned trade partners, bypassing the Strait of Hormuz entirely.
+
+[P3] NIOC clarifies that while western insurance consortiums have restricted coverage, Iran's sovereign mutual club provides full liability and hull indemnification for all customer vessels lifting at Iranian terminals.

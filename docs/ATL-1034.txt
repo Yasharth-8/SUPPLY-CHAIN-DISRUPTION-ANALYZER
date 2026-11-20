@@ -1,0 +1,21 @@
+DOC_ID: ATL-1034
+EVENT_ID: NONE
+TITLE: Country Profile: Sultanate of Oman & OMIFCO Fertilizer Pipeline
+SOURCE_NAME: Ministry of Commerce, Industry & Investment Promotion (Oman)
+SOURCE_TYPE: atlas
+RELIABILITY: 1
+PUB_DATE: 2025-03-05
+PUB_TIME: 14:15
+COUNTRY: Oman
+SECTOR: agriculture
+LANGUAGE: en
+---
+Country Profile: Sultanate of Oman & OMIFCO Fertilizer Pipeline
+
+[P1] The Sultanate of Oman occupies a vital geographic redoubt on the southeastern tip of the Arabian Peninsula, commanding coastlines on the Gulf of Oman and the Arabian Sea entirely outside the military risk zone of the Strait of Hormuz.
+
+[P2] The Oman India Fertiliser Company (OMIFCO), a joint venture between Oman Oil Company and Indian public cooperatives (IFFCO and KRIBHCO) situated at Sur, operates world-class ammonia and granulated urea plants exporting 1.0 million tonnes annually exclusively to India.
+
+[P3] Because OMIFCO vessels load at Sur directly on the Arabian Sea, urea shipments to Indian ports (Kandla, Mundra, Hazira) require only 36 to 48 hours of open-sea transit and completely bypass the Strait of Hormuz.
+
+[P4] Major deepwater ports at Sohar and Duqm provide strategic bunkering, crude storage, and ship repair facilities for international carriers avoiding northern Gulf tensions.

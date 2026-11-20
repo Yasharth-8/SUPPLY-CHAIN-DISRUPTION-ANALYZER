@@ -1,0 +1,19 @@
+DOC_ID: CRX-1027
+EVENT_ID: CRX-2027
+TITLE: Clarksons Shipping Intelligence: Global Tanker Fleet Speed & Tonnage Analysis
+SOURCE_NAME: Clarksons Research
+SOURCE_TYPE: crisis
+RELIABILITY: 2
+PUB_DATE: 2027-02-18
+PUB_TIME: 15:20
+COUNTRY: United Kingdom
+SECTOR: shipping
+LANGUAGE: en
+---
+Clarksons Shipping Intelligence: Global Tanker Fleet Speed & Tonnage Analysis
+
+[P1] Clarksons data indicates that the global VLCC fleet increased its average operating ballast speed from 11.8 knots to 13.2 knots in January-February 2027, compensating for longer transit distances via the Cape.
+
+[P2] This speed increase absorbed approximately 45,000 tonnes per day of extra marine bunker fuel globally, tightening spot bunker markets in Singapore, Fujairah, and Las Palmas.
+
+[P3] Effective global tanker supply remains sufficient to avoid systemic stockouts, provided refinery buyers accept the standard 10-12 day voyage extension.

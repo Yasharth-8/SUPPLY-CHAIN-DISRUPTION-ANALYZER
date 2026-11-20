@@ -1,0 +1,21 @@
+DOC_ID: ATL-1025
+EVENT_ID: NONE
+TITLE: Port Profile: Mundra & Deendayal (Kandla) Mega-Cluster
+SOURCE_NAME: Deendayal Port Authority & Gujarat Maritime Board
+SOURCE_TYPE: atlas
+RELIABILITY: 1
+PUB_DATE: 2025-02-24
+PUB_TIME: 11:30
+COUNTRY: India
+SECTOR: maritime
+LANGUAGE: en
+---
+Port Profile: Mundra & Deendayal (Kandla) Mega-Cluster
+
+[P1] The Gulf of Kutch in Gujarat hosts India's largest maritime cargo cluster, anchored by Mundra Port (India's largest commercial multi-port operator, Adani Ports) and Deendayal Port (Kandla, India's leading major port by bulk volume).
+
+[P2] Mundra Port features deep-draft multi-purpose berths and Single Point Mooring (SPM) facilities capable of berthing fully laden Very Large Crude Carriers (VLCCs), handling crude feeds for private refineries and extensive inland pipeline networks (Mundra-Panipat, Mundra-Delhi).
+
+[P3] Kandla specializes in bulk liquid imports (edible oils, liquid chemicals, fertilizer raw materials) and heavy agricultural dry bulk exports (wheat, non-basmati rice, and sugar) serving the agricultural hinterlands of Punjab, Haryana, and Rajasthan.
+
+[P4] Both ports maintain close proximity to the Persian Gulf, allowing short 2-to-3 day maritime tanker transit from the Strait of Hormuz under normal navigation conditions.

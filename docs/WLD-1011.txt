@@ -1,0 +1,19 @@
+DOC_ID: WLD-1011
+EVENT_ID: CRX-2027
+TITLE: UNVERIFIED: Clandestine Seizures of Neutral Tankers in Arabian Sea
+SOURCE_NAME: Global Trade Whisper Blog
+SOURCE_TYPE: wire
+RELIABILITY: 4
+PUB_DATE: 2027-02-17
+PUB_TIME: 23:15
+COUNTRY: Unknown
+SECTOR: shipping
+LANGUAGE: en
+---
+UNVERIFIED: Clandestine Seizures of Neutral Tankers in Arabian Sea
+
+[P1] (ANONYMOUS BLOG POST) Sources claim that rogue speedboats have seized five neutral commercial tankers in the Arabian Sea over the past 48 hours.
+
+[P2] The seized vessels are supposedly being held in secret coves, and their crews are being held for massive ransom payments.
+
+[P3] No official navy will admit this is happening. The entire Indian Ocean is no longer safe for any commercial ship!

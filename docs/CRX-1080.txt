@@ -1,0 +1,19 @@
+DOC_ID: CRX-1080
+EVENT_ID: CRX-2027
+TITLE: Bilateral Settlement Directive: Rupee-Dirham and Rupee-Ruble Energy Clearance
+SOURCE_NAME: Reserve Bank of India (RBI)
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-02-17
+PUB_TIME: 16:00
+COUNTRY: India
+SECTOR: finance
+LANGUAGE: en
+---
+Bilateral Settlement Directive: Rupee-Dirham and Rupee-Ruble Energy Clearance
+
+[P1] The Reserve Bank of India reports that 68% of all crude oil and fertilizer import transactions from the UAE and Russian Federation during January 2027 were settled using Special Rupee Vostro Accounts (SRVA) and local currency settlement mechanisms.
+
+[P2] Direct settlement in Indian Rupees (INR), UAE Dirhams (AED), and non-dollar clearing systems eliminated foreign exchange conversion delays and protected Indian refiners from western banking sanctions.
+
+[P3] Refiners realized estimated foreign exchange transaction cost savings of $28 million during the reporting period.

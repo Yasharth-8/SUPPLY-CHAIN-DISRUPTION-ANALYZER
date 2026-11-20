@@ -1,0 +1,21 @@
+DOC_ID: ATL-1031
+EVENT_ID: NONE
+TITLE: Corridor Profile: Palk Strait, Gulf of Mannar & Colombo Transshipment Nexus
+SOURCE_NAME: National Maritime Foundation of India
+SOURCE_TYPE: atlas
+RELIABILITY: 1
+PUB_DATE: 2025-03-02
+PUB_TIME: 12:00
+COUNTRY: India
+SECTOR: maritime
+LANGUAGE: en
+---
+Corridor Profile: Palk Strait, Gulf of Mannar & Colombo Transshipment Nexus
+
+[P1] The maritime geography separating peninsular India and Sri Lanka comprises two distinct bodies of water: the shallow Palk Strait to the north (depths averaging 2 to 9 meters) and the deep Gulf of Mannar to the south.
+
+[P2] Because the historic limestone shoals of Adam's Bridge (Rama Setu) prevent ocean-going vessels with drafts over 3 meters from navigating directly through the Palk Strait, large commercial ships must circumnavigate around southern Sri Lanka.
+
+[P3] This geographic constraint established the Port of Colombo as the indispensable transshipment hub for southern and eastern India. Over 60% of all Indian containerized exports from Tuticorin, Chennai, Visakhapatnam, and Kolkata are transferred onto international mother vessels calling at Colombo.
+
+[P4] India's National Logistics Policy prioritizes the development of domestic deepwater transshipment alternatives at Vizhinjam (Kerala) and Galathea Bay (Great Nicobar) to reduce structural dependence on foreign transshipment ports.

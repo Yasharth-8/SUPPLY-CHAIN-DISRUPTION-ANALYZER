@@ -1,0 +1,21 @@
+DOC_ID: ATL-1002
+EVENT_ID: NONE
+TITLE: Country profile: Russian Federation
+SOURCE_NAME: Federal Agency for Maritime and River Transport
+SOURCE_TYPE: atlas
+RELIABILITY: 1
+PUB_DATE: 2025-01-12
+PUB_TIME: 10:30
+COUNTRY: Russian Federation
+SECTOR: general
+LANGUAGE: en
+---
+Country profile: Russian Federation
+
+[P1] The Russian Federation is a resource powerhouse dominating global Eurasian energy, fertilizer, and cereal supply chains. Its export economy relies heavily on crude oil (Urals and ESPO blends), pipeline natural gas, thermal coal, and agricultural fertilizers including urea and potash.
+
+[P2] Key maritime export outlets are geographically dispersed across three principal basins: Baltic Sea ports (Primorsk and Ust-Luga), Black Sea deepwater hubs (Novorossiysk), and Pacific maritime gateways (Kozmino, Vladivostok). Seasonal winter freeze between January and March historically slows Baltic tanker loading operations.
+
+[P3] Following international sanctions regimes, Russian crude flows structurally redirected toward Asian markets, notably India and China, utilizing sovereign insurance mechanisms and an independent shadow tanker fleet. Discounted Urals pricing creates economic arbitrage for high-complexity Asian refiners.
+
+[P4] Russia controls the Northern Sea Route (NSR) traversing Arctic waters, providing a shorter transit between Atlantic and Pacific ports during ice-free summer months and polar-escorted winter navigation.

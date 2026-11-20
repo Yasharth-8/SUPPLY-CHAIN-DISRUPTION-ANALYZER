@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomsManifestDeclaration xmlns="urn:wco:customs:data">
+  <DeclarationHeader>
+    <DocumentID>CRX-1051</DocumentID>
+    <IssueDate>2027-02-18</IssueDate>
+    <PortOfLoading>SAJED</PortOfLoading>
+    <PortOfDischarge>INBOM</PortOfDischarge>
+  </DeclarationHeader>
+  <Consignment>
+    <CommodityCode>31021000</CommodityCode>
+    <Description>Granular Urea Fertilizer in Bulk</Description>
+    <GrossWeightKG>45000000</GrossWeightKG>
+    <InvoiceValueUSD>15300000</InvoiceValueUSD>
+  </Consignment>
+</CustomsManifestDeclaration>

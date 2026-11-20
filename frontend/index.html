@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Supply Chain Disruption Analyser</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Source+Serif+4:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+
+  <!-- ═══════════ HEADER ═══════════ -->
+  <header id="appHeader">
+    <div class="wrap header-inner">
+      <div class="header-brand">
+        <div class="brand-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M5 21h14M6 7h12M6 7l-3 7a3 3 0 0 0 6 0L6 7zM18 7l-3 7a3 3 0 0 0 6 0l-3-7z"></path></svg>
+        </div>
+        <span class="brand-text">Supply Chain Disruption Analyser</span>
+      </div>
+      <nav class="header-nav" id="mainNav">
+        <button class="nav-btn active" data-view="cases" onclick="switchView('cases')">Cases</button>
+        <button class="nav-btn" data-view="evidence" onclick="switchView('evidence')">Evidence library</button>
+        <button class="nav-btn" data-view="audit" onclick="switchView('audit')">Audit log</button>
+      </nav>
+      <div class="header-actions">
+        <span id="caseStatusBadge" class="status-chip idle">Ready</span>
+        <button id="btnNewCase" class="btn-primary" onclick="newCase()">New case</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ═══════════ MAIN ═══════════ -->
+  <main class="wrap main-content">
+
+    <!-- Search Bar -->
+    <form id="searchForm" onsubmit="event.preventDefault(); submitCase();">
+      <label for="questionInput" class="eyebrow search-label">Ask the court</label>
+      <input id="questionInput" type="text" placeholder="What will happen to India if China bans fertilizer exports?" autocomplete="off">
+      <button type="submit" id="btnSubmitCase" class="btn-primary">Analyse</button>
+    </form>
+
+    <!-- Case History Bar -->
+    <div id="caseHistoryBar" class="history-bar hidden">
+      <span class="eyebrow" style="flex:0 0 auto">Recent</span>
+      <div id="caseHistoryList" class="history-scroll"></div>
+    </div>
+
+    <!-- ═══════════ CASES VIEW ═══════════ -->
+    <div id="viewCases" class="view-panel">
+
+      <!-- Welcome State -->
+      <div id="welcomeState" class="welcome-card card">
+        <div class="welcome-inner">
+          <div class="welcome-icon">⚖️</div>
+          <h2>Adversarial Supply Chain Court</h2>
+          <p>Enter a disruption scenario or hypothesis. The Prosecutor will argue high exposure, the Defence will argue resilience, and the Bench will adjudicate.</p>
+          <div class="preset-row">
+            <button type="button" class="preset-btn" onclick="setPreset('hormuz')">🌊 Hormuz Crisis</button>
+            <button type="button" class="preset-btn" onclick="setPreset('fertilizer')">🧪 Fertilizer Quotas</button>
+            <button type="button" class="preset-btn" onclick="setPreset('hypo')">🏭 Hypothetical Strike</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Processing State -->
+      <div id="processingState" class="hidden">
+        <div class="card processing-card">
+          <div class="spinner"></div>
+          <h3 id="processingTitle">Court is in session…</h3>
+          <p class="text-muted" id="processingStage">Evaluating the case</p>
+          <div class="pipeline" id="pipelineStages">
+            <div class="pipe-step" data-stage="gatekeeper"><span class="pipe-dot"></span>Gatekeeper</div>
+            <div class="pipe-step" data-stage="prosecutor"><span class="pipe-dot"></span>Prosecutor</div>
+            <div class="pipe-step" data-stage="defence"><span class="pipe-dot"></span>Defence</div>
+            <div class="pipe-step" data-stage="rebuttals"><span class="pipe-dot"></span>Rebuttals</div>
+            <div class="pipe-step" data-stage="judge"><span class="pipe-dot"></span>The Bench</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Dismissal State -->
+      <div id="dismissalState" class="hidden"></div>
+
+      <!-- ═══════════ RESULTS ═══════════ -->
+      <div id="resultsContainer" class="hidden results-stack">
+
+        <!-- Hero row: Case Summary + Court Ledger -->
+        <div class="hero">
+          <section class="card" id="caseSummaryCard">
+            <div class="case-chips" id="caseChips"></div>
+            <h1 class="case-headline" id="caseHeadline"></h1>
+            <p class="case-subline" id="caseSubline"></p>
+            <div class="three" id="keyFindings"></div>
+          </section>
+
+          <aside class="card ledger-aside" id="courtLedger">
+            <div class="eyebrow">Court ledger</div>
+            <div class="ledger-bar" id="ledgerBar"></div>
+            <div class="ledger-counts" id="ledgerCounts"></div>
+            <div class="ledger-meta" id="ledgerMeta"></div>
+          </aside>
+        </div>
+
+        <!-- Time-to-Impact Matrix -->
+        <section class="card">
+          <div class="eyebrow">Impact Timeline</div>
+          <h2 class="section-title">What happens, when: Supply chain impacts by timeline</h2>
+          <p class="text-muted" style="margin-top:-10px;margin-bottom:14px;font-size:13px">
+            Shows how disruptions unfold from the first week up to three months. Identifies exact commodity shortages, factory risks, and how emergency reserves cushion the blow.
+          </p>
+          <div class="table-legend">
+            <span class="leg-item"><span class="leg-box fill"></span> <strong>Direct Impact:</strong> Raw delivery delay or supply shortage before buffers</span>
+            <span class="leg-item"><span class="leg-box mit"></span> <strong>Buffered:</strong> Net impact after strategic reserves or bypass pipelines absorb the shock</span>
+            <span class="leg-item"><span class="leg-box not-assessed"></span> <strong>Not Assessed:</strong> No ruling delivered for this window</span>
+          </div>
+          <div class="scroll">
+            <div class="tgrid" id="impactGrid"></div>
+          </div>
+        </section>
+
+        <!-- Contested Findings + Evidence -->
+        <div class="split" id="findingsSplit">
+          <section class="card findings-col" id="contestedFindings"></section>
+          <section class="card evidence-col" id="evidenceSummaryCard">
+            <div class="eyebrow">Evidence behind the verdicts</div>
+            <div id="evidenceSummaryList"></div>
+            <button type="button" class="btn-outline full-width" onclick="switchView('evidence')" style="margin-top:18px">Open full evidence library</button>
+          </section>
+        </div>
+
+        <!-- Full Trial Transcript (collapsible) -->
+        <details class="card trial-details" id="trialTranscript">
+          <summary class="trial-summary">
+            <span>Full trial transcript</span>
+            <span class="caret">▸</span>
+          </summary>
+          <div id="disputeThreadsContainer" class="threads-container"></div>
+        </details>
+
+        <!-- Executive Briefing -->
+        <section class="card" id="briefingSection">
+          <div id="briefingContainer"></div>
+        </section>
+
+      </div>
+    </div>
+
+    <!-- ═══════════ EVIDENCE LIBRARY VIEW ═══════════ -->
+    <div id="viewEvidence" class="view-panel hidden">
+      <div class="view-header">
+        <h2 class="section-title">Evidence Library</h2>
+        <p class="text-muted" id="evidenceViewSubline">Documents involved in the current case</p>
+      </div>
+      <div id="evidenceLibraryGrid" class="ev-grid">
+        <div class="empty-notice card">
+          <p>Submit a case to see its evidence library.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══════════ AUDIT LOG VIEW ═══════════ -->
+    <div id="viewAuditLog" class="view-panel hidden">
+      <div class="view-header">
+        <h2 class="section-title">Audit Log</h2>
+        <p class="text-muted">Timeline of analysis pipeline events</p>
+      </div>
+      <div id="auditLogTimeline" class="audit-tl">
+        <div class="empty-notice card">
+          <p>Submit a case to see its audit log.</p>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- ═══════════ EVIDENCE DRAWER ═══════════ -->
+  <div id="drawerOverlay" class="drawer-overlay hidden" onclick="closeDrawer()"></div>
+  <div id="evidenceDrawer" class="drawer hidden">
+    <div class="drawer-head">
+      <h3 id="drawerTitle">Document</h3>
+      <button onclick="closeDrawer()" class="drawer-close" aria-label="Close">&times;</button>
+    </div>
+    <div id="drawerBody" class="drawer-body"></div>
+  </div>
+
+</div>
+<script src="app.js"></script>
+</body>
+</html>

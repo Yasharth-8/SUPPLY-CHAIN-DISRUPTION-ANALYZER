@@ -1,0 +1,19 @@
+DOC_ID: CRX-1028
+EVENT_ID: CRX-2027
+TITLE: URGENT WARNING: Strait of Malacca Blockaded by Foreign Submarines
+SOURCE_NAME: WarLanesOSINT Telegram Channel
+SOURCE_TYPE: crisis
+RELIABILITY: 4
+PUB_DATE: 2027-02-18
+PUB_TIME: 22:10
+COUNTRY: Unknown
+SECTOR: maritime
+LANGUAGE: en
+---
+URGENT WARNING: Strait of Malacca Blockaded by Foreign Submarines
+
+[P1] (VIRAL POST) Multiple military telegram channels report that three foreign attack submarines have declared an active exclusion zone in the Malacca Strait off Phillips Channel.
+
+[P2] All commercial container ships are trapped in Singapore anchorage. Singapore port has supposedly suspended all maritime operations and declared emergency martial law.
+
+[P3] The Asian economy is cut off from Middle Eastern crude oil completely. Sell all stocks immediately!

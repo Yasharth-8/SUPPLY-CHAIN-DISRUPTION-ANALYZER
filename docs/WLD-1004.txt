@@ -1,0 +1,19 @@
+DOC_ID: WLD-1004
+EVENT_ID: CRX-2027
+TITLE: Naval Coalition Patrols and Strategic Reserve Coordination Calms Energy Desks
+SOURCE_NAME: The Wall Street Journal
+SOURCE_TYPE: wire
+RELIABILITY: 2
+PUB_DATE: 2027-02-06
+PUB_TIME: 11:20
+COUNTRY: United States
+SECTOR: energy
+LANGUAGE: en
+---
+Naval Coalition Patrols and Strategic Reserve Coordination Calms Energy Desks
+
+[P1] Intense diplomatic coordination between Washington, European capitals, and Asian allies has stabilized energy market sentiment following weeks of volatility.
+
+[P2] The US Department of Energy's willingness to tap the Strategic Petroleum Reserve, combined with regular naval convoy escorts through critical waters, has curtailed panic-buying by utility operators.
+
+[P3] Energy analysts indicate that the global economy's capacity to bypass maritime bottlenecks has significantly exceeded historical precedent.

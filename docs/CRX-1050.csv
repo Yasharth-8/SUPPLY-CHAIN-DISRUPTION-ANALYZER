@@ -1,0 +1,5 @@
+timestamp,chokepoint,vessel_mmsi,vessel_name,cargo_type,speed_knots,status
+2027-02-17T08:14:00Z,Bab-el-Mandeb,211334000,Nordic Breeze,Crude Oil,13.4,Underway
+2027-02-17T09:22:00Z,Suez_Canal,477123000,Asian Glory,Containers,10.2,In Convoy
+2027-02-17T11:45:00Z,Strait_of_Hormuz,352988000,Al-Janoub,LNG,14.8,Underway
+2027-02-17T14:10:00Z,Cape_of_Good_Hope,636019000,Atlantic Carrier,Bulk Urea,12.1,Underway

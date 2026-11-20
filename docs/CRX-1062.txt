@@ -1,0 +1,19 @@
+DOC_ID: CRX-1062
+EVENT_ID: CRX-2027
+TITLE: Industry Report: ASEAN-India Intermediate Electronics & Component Resilience
+SOURCE_NAME: ASEAN Supply Chain Review
+SOURCE_TYPE: crisis
+RELIABILITY: 2
+PUB_DATE: 2027-02-18
+PUB_TIME: 15:20
+COUNTRY: Vietnam
+SECTOR: electronics
+LANGUAGE: en
+---
+Industry Report: ASEAN-India Intermediate Electronics & Component Resilience
+
+[P1] Bilateral trade between Vietnam, Malaysia, and India in intermediate semiconductor components and printed circuit board assemblies (PCBAs) registered a 12.4% year-over-year increase in early 2027.
+
+[P2] Electronics shipments loading at Hai Phong and Port Klang bound for Chennai and Nhava Sheva transited the Strait of Malacca without incident, unaffected by Persian Gulf or Red Sea disruptions.
+
+[P3] Tech manufacturers in southern India (Sriperumbudur, Bengaluru, and Noida) maintain an average inventory buffer of 42 days of critical sub-assemblies, preventing consumer electronics assembly shutdowns.

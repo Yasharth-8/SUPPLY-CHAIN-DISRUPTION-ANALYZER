@@ -1,0 +1,19 @@
+DOC_ID: CRX-1024
+EVENT_ID: CRX-2027
+TITLE: Ministry Announcement: Domestic Fertilizer Quotas & National Reserve Releases
+SOURCE_NAME: Ministry of Commerce of the People's Republic of China
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-02-17
+PUB_TIME: 10:15
+COUNTRY: China
+SECTOR: agriculture
+LANGUAGE: en
+---
+Ministry Announcement: Domestic Fertilizer Quotas & National Reserve Releases
+
+[P1] In order to stabilize domestic agricultural input prices ahead of spring planting, MOFCOM announces the release of 2.0 million metric tonnes of urea from state commercial fertilizer reserves.
+
+[P2] The export inspection quota system implemented in late 2026 will remain in effect through April 2027, restricting monthly outbound urea shipments to a ceiling of 200,000 MT to prioritize domestic agricultural security.
+
+[P3] Long-term government-to-government bilateral fertilizer supply agreements with friendly trading partners will be honored via dedicated rail transit through the China-Laos and Central Asian networks.

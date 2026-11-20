@@ -1,0 +1,19 @@
+DOC_ID: WLD-1025
+EVENT_ID: CRX-2027
+TITLE: Arab News: Jebel Ali and Mundra Expand Joint Feeder Capacity Under IMEC Protocol
+SOURCE_NAME: Arab News (Dubai Commercial Desk)
+SOURCE_TYPE: wire
+RELIABILITY: 2
+PUB_DATE: 2027-02-20
+PUB_TIME: 08:30
+COUNTRY: Saudi Arabia
+SECTOR: logistics
+LANGUAGE: en
+---
+Arab News: Jebel Ali and Mundra Expand Joint Feeder Capacity Under IMEC Protocol
+
+[P1] Port authorities in Dubai and Gujarat have expanded scheduled container shuttle operations between Jebel Ali Port and Mundra Port, supporting the foundational maritime leg of the IMEC corridor.
+
+[P2] Short-sea container vessels make the Arabian Sea crossing in under 60 hours, bypassing northern Gulf tension areas and linking directly with UAE freight rail networks.
+
+[P3] Logistics executives highlight that the corridor provides an enduring physical hedge against conventional maritime chokepoints.

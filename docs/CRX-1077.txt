@@ -1,0 +1,19 @@
+DOC_ID: CRX-1077
+EVENT_ID: CRX-2027
+TITLE: Crude Reserve Cavern Status: ISPRL Mangalore and Padur Operational Readiness
+SOURCE_NAME: Indian Strategic Petroleum Reserves Limited (ISPRL)
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-02-13
+PUB_TIME: 14:30
+COUNTRY: India
+SECTOR: energy
+LANGUAGE: en
+---
+Crude Reserve Cavern Status: ISPRL Mangalore and Padur Operational Readiness
+
+[P1] ISPRL confirms that its strategic underground rock caverns at Mangalore (1.50 MMT) and Padur (2.50 MMT) are maintained at 100% capacity with heavy and medium sour crude grades.
+
+[P2] Bi-weekly hydrogeological containment audits and hydrostatic pressure monitoring confirm zero leakage and instantaneous drawdown readiness via dedicated pipelines to coastal refineries (MRPL).
+
+[P3] ISPRL reiterates that emergency crude loan mechanisms can release up to 350,000 bpd into domestic refineries within 48 hours of an official ministerial mobilization decree.

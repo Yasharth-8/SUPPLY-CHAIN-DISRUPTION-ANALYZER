@@ -1,0 +1,19 @@
+DOC_ID: CRX-1093
+EVENT_ID: CRX-2027
+TITLE: Textile Supply Chain Bulletin: Tirupur Garment Exports via Tuticorin and Cochin
+SOURCE_NAME: Tirupur Exporters' Association (TEA)
+SOURCE_TYPE: crisis
+RELIABILITY: 2
+PUB_DATE: 2027-02-20
+PUB_TIME: 13:15
+COUNTRY: India
+SECTOR: textiles
+LANGUAGE: en
+---
+Textile Supply Chain Bulletin: Tirupur Garment Exports via Tuticorin and Cochin
+
+[P1] The Tirupur garment manufacturing cluster exported $340 million worth of knitwear products in January 2027, with 68% of outbound containers routing through Tuticorin and Cochin ports.
+
+[P2] Container availability remained stable, supported by coastal repositioning of empty boxes from northern India.
+
+[P3] European buyers accepted adjusted delivery lead times of +10 days for Cape routes, avoiding order cancellations or penalty deductions.

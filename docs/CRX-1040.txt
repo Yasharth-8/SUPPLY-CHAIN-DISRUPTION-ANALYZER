@@ -1,0 +1,19 @@
+DOC_ID: CRX-1040
+EVENT_ID: CRX-2027
+TITLE: Maritime Advisory: US Commercial Fleet Security Guidance in CENTCOM Area
+SOURCE_NAME: US Maritime Administration (MARAD)
+SOURCE_TYPE: crisis
+RELIABILITY: 1
+PUB_DATE: 2027-02-20
+PUB_TIME: 18:00
+COUNTRY: United States
+SECTOR: maritime
+LANGUAGE: en
+---
+Maritime Advisory: US Commercial Fleet Security Guidance in CENTCOM Area
+
+[P1] MARAD issues updated advisory 2027-004 to US-flagged commercial vessels operating in the Persian Gulf, Strait of Hormuz, Gulf of Oman, and southern Red Sea.
+
+[P2] US vessels are urged to participate in the US Naval Forces Central Command Voluntary Reporting Scheme and coordinate closely with Coalition task forces when transiting narrow corridors.
+
+[P3] No US-flagged commercial vessels have experienced physical damage or hull breach during the reporting period, and domestic supply chains remain uncompromised.

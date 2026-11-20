@@ -1,0 +1,19 @@
+DOC_ID: CRX-1081
+EVENT_ID: CRX-2027
+TITLE: FALSE CLAIM: Indian West Coast Ports Trapped by Persian Gulf Mine Drift
+SOURCE_NAME: Arabian Gulf Whistleblower Blog
+SOURCE_TYPE: crisis
+RELIABILITY: 4
+PUB_DATE: 2027-02-17
+PUB_TIME: 21:30
+COUNTRY: Unknown
+SECTOR: maritime
+LANGUAGE: en
+---
+FALSE CLAIM: Indian West Coast Ports Trapped by Persian Gulf Mine Drift
+
+[P1] (VIRAL SENSATIONAL CLAIM) Sources claim that drifting naval mines have escaped the Persian Gulf and are now floating into Indian territorial waters outside Mumbai and Kandla.
+
+[P2] All commercial tanker traffic to Jamnagar and Mundra has reportedly been stopped by the Indian Coast Guard. Refineries are supposedly shutting down within 48 hours.
+
+[P3] Total economic blackout is imminent across western India. Stock up on gasoline immediately!

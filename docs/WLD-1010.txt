@@ -1,0 +1,19 @@
+DOC_ID: WLD-1010
+EVENT_ID: CRX-2027
+TITLE: Yanbu Port Operates at Peak Efficiency as Red Sea Bypass Takes Load
+SOURCE_NAME: Arab News Business Wire
+SOURCE_TYPE: wire
+RELIABILITY: 2
+PUB_DATE: 2027-02-17
+PUB_TIME: 11:45
+COUNTRY: Saudi Arabia
+SECTOR: energy
+LANGUAGE: en
+---
+Yanbu Port Operates at Peak Efficiency as Red Sea Bypass Takes Load
+
+[P1] Operations at the King Fahad Industrial Port in Yanbu have reached historic levels as Saudi Aramco directs crude across the East-West Petroline pipeline to Red Sea export berths.
+
+[P2] International VLCC tankers loading at Yanbu avoid the Persian Gulf entirely, saving charterers hundreds of thousands of dollars in war risk insurance surcharges.
+
+[P3] Saudi port authorities affirm that all marine loading berths and bunkering facilities are operating with 100% safety and regulatory compliance.

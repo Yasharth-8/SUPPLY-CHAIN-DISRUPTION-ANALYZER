@@ -1,0 +1,64 @@
+# ==============================================================================
+# Supply Chain Disruption Analyzer - Git Ignore Configuration
+# ==============================================================================
+
+# Environment and Secret Files (Strictly Protect Credentials)
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+# Explicit exception: allow the template example file to be tracked
+!.env.example
+
+# Python Caches and Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+bin/
+include/
+lib/
+lib64/
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Dynamic Runtime State & Logs
+logs/
+*.log
+memory/cooldowns.json
+
+# Scratch and Temporary Directories
+scratch/
+tmp/
+temp/

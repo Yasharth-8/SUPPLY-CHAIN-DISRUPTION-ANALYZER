@@ -1,0 +1,25 @@
+DOC_ID: ATL-1022
+EVENT_ID: NONE
+TITLE: Master Encyclopedia: Indian Maritime Corridors, Gateway Ports & Global Chokepoints
+SOURCE_NAME: Indian Ports Association & Ministry of Ports, Shipping and Waterways
+SOURCE_TYPE: atlas
+RELIABILITY: 1
+PUB_DATE: 2025-02-20
+PUB_TIME: 10:00
+COUNTRY: India
+SECTOR: maritime
+LANGUAGE: en
+---
+Master Encyclopedia: Indian Maritime Corridors, Gateway Ports & Global Chokepoints
+
+[P1] The Republic of India commands a strategic central vantage across the Indian Ocean Region (IOR), with a 7,516-kilometer coastline, 12 major ports, and over 200 non-major ports handling approximately 95% of the nation's international trade volume.
+
+[P2] Western Maritime Corridors link India's primary container gateway at Jawaharlal Nehru Port (JNPT/Nhava Sheva) and private deepwater mega-ports at Mundra and Hazira to the Strait of Hormuz (Persian Gulf energy), the Bab-el-Mandeb/Suez Canal route (Europe/US East Coast), and the Strait of Gibraltar. India's refining centers in Gujarat (Jamnagar/Vadinar) refine imported Middle Eastern and Russian crude into exported clean fuels destined for Europe and Africa.
+
+[P3] Southern Gateway & Sri Lanka Corridors: The ports of Cochin (Vallarpadam International Container Transshipment Terminal) and V.O. Chidambaranar (Tuticorin) straddle the Gulf of Mannar and Palk Strait approach. Cochin provides a direct deepwater diversion point on the main East-West axis, while Tuticorin links regional textile and agricultural trades to Colombo's mega-transshipment berths.
+
+[P4] Eastern & Bay of Bengal Corridors link Chennai Port, Kamarajar (Ennore), Visakhapatnam, and Kolkata-Haldia across the Andaman Sea to the Strait of Malacca, connecting India directly to Vietnam, Malaysia, China, and Australia. Visakhapatnam acts as the premier hub for Australian coking coal and critical mineral discharges.
+
+[P5] Strategic Multimodal Overpasses: India actively anchors two revolutionary multimodal transit initiatives: (1) The International North-South Transport Corridor (INSTC), connecting Mumbai/Kandla through Chabahar and Bandar Abbas to Russia and Central Asia, and (2) The India-Middle East-Europe Economic Corridor (IMEC), connecting Indian west coast ports to the UAE (Jebel Ali/Fujairah), transitioning to trans-Arabian rail towards Haifa and European gateways.
+
+[P6] Global Chokepoint Interdependence: Any disruption at Hormuz, Bab-el-Mandeb, Gibraltar, or Malacca directly impacts Indian industrial margins, prompting immediate diversification via coastal shipping cabotage, strategic petroleum caverns (Visakhapatnam, Mangalore, Padur), and bilateral currency settlement rails.

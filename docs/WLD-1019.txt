@@ -1,0 +1,19 @@
+DOC_ID: WLD-1019
+EVENT_ID: CRX-2027
+TITLE: Financial Express: Fertilizer Stocks at Indian Ports Disprove Global Shortage Rumors
+SOURCE_NAME: Financial Express (Agri-Business Desk)
+SOURCE_TYPE: wire
+RELIABILITY: 2
+PUB_DATE: 2027-02-16
+PUB_TIME: 11:00
+COUNTRY: India
+SECTOR: agriculture
+LANGUAGE: en
+---
+Financial Express: Fertilizer Stocks at Indian Ports Disprove Global Shortage Rumors
+
+[P1] Ground reports from Kandla, Mundra, and Hazira ports demonstrate bustling fertilizer discharge operations, directly contradicting alarmist international media reports of global agricultural paralysis.
+
+[P2] High-capacity rail rakes operated by CONCOR are transporting urea and diammonium phosphate (DAP) daily to farming cooperatives across Uttar Pradesh, Madhya Pradesh, and Punjab.
+
+[P3] Agricultural economists confirm that soil nutrient availability for the ongoing rabi crop harvest is completely secured.
